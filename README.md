@@ -1,5 +1,5 @@
 ## Description
-
+https://github.com/sdg9670/nestjs-kafka <- 보고 공부
 [Nest](https://github.com/nestjs/nest) framework의 Kafka 기능을 소개합니다.
 
 ### Port 및 URL
@@ -23,7 +23,7 @@
 ## Installation
 
 ```bash
-$ pnpm
+$ pnpm install
 ```
 
 ## Running docker
