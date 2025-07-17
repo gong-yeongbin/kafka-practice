@@ -1,5 +1,6 @@
-## Git
+## Reference
 https://github.com/sdg9670/nestjs-kafka
+https://sdg9670.github.io/nodejs/nestjs-kafka/
 
 ## Description
 [Nest](https://github.com/nestjs/nest) framework의 Kafka 기능을 소개합니다.
